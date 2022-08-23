@@ -12,8 +12,7 @@ readTime: 5 min read
 
 :::tip Before You Begin
 
-Please be sure to see the [Quickstart Guide](/getting-started/quickstart.md) to get a basic overview of the platform. In
-addition, you will need functional knowledge of JSON objects as well as
+Please be sure to see the [Quickstart Guide](/getting-started/quickstart.md) to get a basic overview of the platform.
 
 :::
 
